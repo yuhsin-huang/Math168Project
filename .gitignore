@@ -1,1 +1,10 @@
+<<<<<<< Updated upstream
 .DS_Store
+=======
+
+.ipynb_checkpoints/demo presentation-checkpoint.ipynb
+.ipynb_checkpoints/matching posts-checkpoint.ipynb
+.ipynb_checkpoints/reddit-checkpoint.ipynb
+.ipynb_checkpoints/reddit_graphs-checkpoint.ipynb
+.ipynb_checkpoints/twitter-checkpoint.ipynb
+>>>>>>> Stashed changes
